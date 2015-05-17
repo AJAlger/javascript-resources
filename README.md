@@ -22,7 +22,7 @@ This is a repository for all the JavaScript resources that I come across and bel
 - Mozilla's [Introduction to Object-Oriented JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Introduction_to_Object-Oriented_JavaScript)
 
 ###Arrays
-- [Infinite Ways to Detect Arrays in 
+- Shamasis Bhattacharya - [Infinite Ways to Detect Arrays in JavaScript](http://www.shamasis.net/2011/08/infinite-ways-to-detect-array-in-javascript/) 
 
 ###Style Guides
 - [Idiomatic JavaScript](https://github.com/rwaldron/idiomatic.js)
