@@ -27,3 +27,5 @@ This is a repository for all the JavaScript resources that I come across and bel
 ###Style Guides
 - [Idiomatic JavaScript](https://github.com/rwaldron/idiomatic.js)
 
+###Responsive Webdesign (JS)
+- [Responsive Image Service](http://www.resrc.it/)
