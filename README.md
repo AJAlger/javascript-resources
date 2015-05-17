@@ -1,4 +1,4 @@
-#JavaScript Resouces
+#JavaScript Resources
 
 This is a repository for all the JavaScript resources that I come across and believe are worth sharing and archiving. It will continue to grow with time, so check back frequently.
 
