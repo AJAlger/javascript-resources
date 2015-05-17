@@ -15,7 +15,7 @@ This is a repository for all the JavaScript resources that I come across and bel
 
 ###Design Patterns
 - Addy Osmani's ["Learning JavaScript Design Patterns"](http://addyosmani.com/resources/essentialjsdesignpatterns/book/)
-- Todd Motto's "Mastering the [Module Pattern](http://toddmotto.com/masterinig-the-module-pattern/)
+- Todd Motto - [Mastering the Module Pattern](http://toddmotto.com/masterinig-the-module-pattern/)
 
 ###Object Oriented JS
 - Udacity's [OOP Course Notes](https://docs.google.com/document/d/1F9DY2TtWbI29KSEIot1WXRqqao7OCd7OOC2W3oubSmc/pub) 
@@ -23,6 +23,9 @@ This is a repository for all the JavaScript resources that I come across and bel
 
 ###Arrays
 - Shamasis Bhattacharya - [Infinite Ways to Detect Arrays in JavaScript](http://www.shamasis.net/2011/08/infinite-ways-to-detect-array-in-javascript/) 
+
+###Strings 
+- Edward Mann - [Ten ways to reverse a string in JavaScript](http://eddmann.com/posts/ten-ways-to-reverse-a-string-in-javascript/)
 
 ###Style Guides
 - [Idiomatic JavaScript](https://github.com/rwaldron/idiomatic.js)
