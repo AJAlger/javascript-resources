@@ -21,6 +21,9 @@ This is a repository for all the JavaScript resources that I come across and bel
 - Udacity's [OOP Course Notes](https://docs.google.com/document/d/1F9DY2TtWbI29KSEIot1WXRqqao7OCd7OOC2W3oubSmc/pub) 
 - Mozilla's [Introduction to Object-Oriented JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Introduction_to_Object-Oriented_JavaScript)
 
+###Testing 
+- [Jasmine](http://jasmine.github.io/)
+
 ###Arrays
 - Shamasis Bhattacharya - [Infinite Ways to Detect Arrays in JavaScript](http://www.shamasis.net/2011/08/infinite-ways-to-detect-array-in-javascript/) 
 
