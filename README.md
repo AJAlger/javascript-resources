@@ -4,7 +4,7 @@
 This is a repository for all the JavaScript resources that I come across and believe are worth sharing and archiving. It will continue to grow with time, so check back frequently.
 
 ###General/Fundies
-- [Eloquent JavaScript](http://eloquentjavascript.net/) by Marijn Haverbeke and his [Github page](https://github.com/marijnh/Eloquent-JavaScript) for the book
+- [Eloquent JavaScript](http://eloquentjavascript.net/) by Marijn Haverbeke and his [Github Repo](https://github.com/marijnh/Eloquent-JavaScript) for the book
 - Mozilla [JavaScript Guide](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide)
 - Douglas Crockford's [JavaScript Website](http://javascript.crockford.com/)
 - [JavaScript Garden](http://bonsaiden.github.io/JavaScript-Garden/)
@@ -46,7 +46,8 @@ This is a repository for all the JavaScript resources that I come across and bel
 - [JS Interview Algorithms](http://www.thatjsdude.com/interview/js1.html) by That JS Dude
 - [Algorithm Implementations](https://github.com/kennyledet/Algorithm-Implementations) in different languages and JavaScript
 - [JavaScript Algorithms](https://mgechev.github.io/javascript-algorithms/) 
-- [JavaScript Algorithms](https://github.com/duereg/js-algorithms) by Matt Blair- [AlgorithmsJS](https://github.com/duereg/js-algorithms) Classic algorithms and data structures implemented in JavaScript
+- [JavaScript Algorithms](https://github.com/duereg/js-algorithms) by Matt Blair 
+- [AlgorithmsJS](https://github.com/duereg/js-algorithms) Classic algorithms and data structures implemented in JavaScript
 
 ###Testing 
 - [Jasmine](http://jasmine.github.io/)
