@@ -36,6 +36,7 @@ This is a repository for all the JavaScript resources that I come across and bel
 - Mozilla's [Introduction to Object-Oriented JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Introduction_to_Object-Oriented_JavaScript)
 
 ###Libraries
+- [MomentJS](http://momentjs.com/)
 - [Underscore](http://underscorejs.org/) 
 - [Lodash](https://lodash.com/)
 - [RamdaJS](ramdajs.com)
