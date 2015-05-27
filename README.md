@@ -5,6 +5,7 @@ This is a repository for all the JavaScript resources that I come across and bel
 
 ###General/Fundies
 - [Eloquent JavaScript](http://eloquentjavascript.net/) by Marijn Haverbeke and his [Github Repo](https://github.com/marijnh/Eloquent-JavaScript) for the book
+- [JavaScript & jQuery](http://javascriptbook.com/) book by Jon Duckett
 - Mozilla [JavaScript Guide](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide)
 - Douglas Crockford's [JavaScript Website](http://javascript.crockford.com/)
 - [JavaScript Garden](http://bonsaiden.github.io/JavaScript-Garden/)
