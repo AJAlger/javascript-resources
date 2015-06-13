@@ -83,4 +83,6 @@ This is a repository for all the JavaScript resources that I come across and bel
 ###Projects
 - [Pong Clone in JavaScript](http://robots.thoughtbot.com/pong-clone-in-javascript)
 
-
+###Hybrid Languages
+- [Native Script](https://www.nativescript.org/)
+- [TypeScript](http://www.typescriptlang.org/)
