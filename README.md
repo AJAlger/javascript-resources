@@ -11,6 +11,8 @@ This is a repository for all the JavaScript resources that I come across and bel
 - [JavaScript Garden](http://bonsaiden.github.io/JavaScript-Garden/)
 - Angus Croll's [JavaScript, JavaScript... Webblog](https://javascriptweblog.wordpress.com/)
 - [Exercism.io](exercism.io) A good place to learn more about writing good code in all languages. Most of the people who comment on your code give good tips. 
+- [Codeeval.com](https://www.codeeval.com/) An excellent resource for coding challenges and practicing your problem solving and algorithmic skills. Featuring challenges in over 21 languages, including JavaScript.
+- [Codewars.com](https://www.codewars.com/) Another great place to learn how to write better code and practice your problem solving with increasing levels of difficulty and various different languages.
 - [Computer Science in JavaScript](https://github.com/nzakas/computer-science-in-javascript) by Nicholas Zakas
 - [Annotated and Hyperlinked version of ES5](http://es5.github.io/#x4.3.7)
 - [JavaScript Koans](https://github.com/mrdavidlaing/javascript-koans)
@@ -87,3 +89,6 @@ This is a repository for all the JavaScript resources that I come across and bel
 ###Hybrid Languages
 - [Native Script](https://www.nativescript.org/)
 - [TypeScript](http://www.typescriptlang.org/)
+
+###Structured Curriculum
+- [FreeCodeCamp](http://www.freecodecamp.com/) A free, full-stack structured curriculum focusing entirely on JavaScript
