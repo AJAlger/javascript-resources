@@ -25,7 +25,6 @@ This is a repository for all the JavaScript resources that I come across and bel
 - [Introduction to RxJS](https://xgrommx.github.io/rx-book/)
 - [RxJS Koans](https://github.com/mattpodwysocki/RxJSKoans)
 - [RxMarbles](http://rxmarbles.com/) - Interactive diagrams of Rx Observables
-- 
 
 ###Exercises
 - [Exercism.io](exercism.io) A good place to learn more about writing good code in all languages. Most of the people who comment on your code give good tips. 
