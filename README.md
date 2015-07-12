@@ -38,6 +38,7 @@ This is a repository for all the JavaScript resources that I come across and bel
 ###Design Patterns
 - Addy Osmani's ["Learning JavaScript Design Patterns"](http://addyosmani.com/resources/essentialjsdesignpatterns/book/) and a [Github Repo](https://github.com/addyosmani/essential-js-design-patterns) for the book
 - Todd Motto - [Mastering the Module Pattern](http://toddmotto.com/masterinig-the-module-pattern/)
+- [JavaScript Patterns](http://shichuan.github.io/javascript-patterns/) - Github Repo
 
 ###Functional JS
 - [JSFundamentals](https://github.com/bgando/functionalJS)
