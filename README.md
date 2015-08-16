@@ -76,7 +76,8 @@ This is a repository for all the JavaScript resources that I come across and bel
 - [Karma](https://karma-runner.github.io/0.12/index.html)
 
 ###Arrays
-- Shamasis Bhattacharya - [Infinite Ways to Detect Arrays in JavaScript](http://www.shamasis.net/2011/08/infinite-ways-to-detect-array-in-javascript/) 
+- Shamasis Bhattacharya - [Infinite Ways to Detect Arrays in JavaScript](http://www.shamasis.net/2011/08/infinite-ways-to-detect-array-in-javascript/)
+- Arrayizing - [The JavaScript Array Cheatsheet](https://gist.github.com/ourmaninamsterdam/1be9a5590c9cf4a0ab42)
 
 ###Strings 
 - Edward Mann - [Ten ways to reverse a string in JavaScript](http://eddmann.com/posts/ten-ways-to-reverse-a-string-in-javascript/)
