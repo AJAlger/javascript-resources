@@ -84,6 +84,7 @@ This is a repository for all the JavaScript resources that I come across and bel
 
 ###RegEx
 - [Regex101](https://regex101.com) My favorite RegEx site for testing
+- [Regexper](http://regexper.com/) Visualize how your regular expression works
 
 ###Currying
 - [Why Currying Helps](https://web.archive.org/web/20140714014530/http://hughfdjackson.com/javascript/why-curry-helps)
