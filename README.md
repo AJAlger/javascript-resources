@@ -15,7 +15,8 @@ This is a repository for all the JavaScript resources that I come across and bel
 - [JavaScript Koans](https://github.com/mrdavidlaing/javascript-koans)
 - Kyle Simpson's ["You Don't Know JS"](https://github.com/getify/You-Dont-Know-JS) - Best JavaScript book series to date. I recommend it over Douglas Crockford's "JavaScript the Good Parts" particularly because this book takes you from the very foundation of JS and builds up.
 - [A Re-Introduction to JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript) by Mozilla Developer Network
-- [Dev Docs](http://devdocs.io/) JavaScript documentation that's handy like Dash. If you use Dash, then this will look familiar. Includes other documentation as well. 
+- [Dev Docs](http://devdocs.io/) - JavaScript documentation that's handy like Dash. If you use Dash, then this will look familiar. Includes other documentation as well. 
+- [Egghead.io](http://egghead.io) - Learn Javascript in short tutorials. Fantastic for Angular, React, D3 and more.
 
 ###Online IDEs 
 - [JS Bin](http://jsbin.com)
