@@ -45,6 +45,7 @@ This is a repository for all the JavaScript resources that I come across and bel
 - [Exercism.io](exercism.io) A good place to learn more about writing good code in all languages. Most of the people who comment on your code give good tips. 
 - [Codeeval.com](https://www.codeeval.com/) An excellent resource for coding challenges and practicing your problem solving and algorithmic skills. Featuring challenges in over 21 languages, including JavaScript.
 - [Codewars.com](https://www.codewars.com/) Another great place to learn how to write better code and practice your problem solving with increasing levels of difficulty and various different languages.
+- [CodeCombat.com](https://codecombat.com/) - Gamification of writing code. Really fun!
 
 ###Design Patterns
 - Addy Osmani's ["Learning JavaScript Design Patterns"](http://addyosmani.com/resources/essentialjsdesignpatterns/book/) and a [Github Repo](https://github.com/addyosmani/essential-js-design-patterns) for the book
