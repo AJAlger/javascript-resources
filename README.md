@@ -66,6 +66,7 @@ This is a repository for all the JavaScript resources that I come across and bel
 - [RamdaJS](ramdajs.com)
 - [Annyang Speech Recognition](https://www.talater.com/annyang/)
 - [RecorderJS](https://github.com/mattdiamond/Recorderjs) - A plugin for recording/exporting the output of Web Audio API nodes 
+- [ReactiveX](http://reactivex.io/) - Reactive Extensions
 
 ###Algorithms
 - [JS Interview Algorithms](http://www.thatjsdude.com/interview/js1.html) by That JS Dude
