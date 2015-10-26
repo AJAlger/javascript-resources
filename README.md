@@ -29,6 +29,7 @@ This is a repository for all the JavaScript resources that I come across and bel
 ###ES2015
 - [ES2015 Syntax](http://www.2ality.com/2014/09/es6-modules-final.html)
 - [ES2015 Compatibility Table](https://kangax.github.io/compat-table/es6/)
+- [ES6 Features](http://es6-features.org/#Constants)
 
 ###Compliers
 - [Babel](https://babeljs.io/) - ES5 to ES2015 complier
