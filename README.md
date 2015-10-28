@@ -37,7 +37,7 @@ This is a repository for all the JavaScript resources that I come across and bel
 
 ###Reactive Programming
 - [ReactiveX](http://reactivex.io/) - An API for Asynchronous Programming
-- Jafar Hussein [Tutorial](http://reactive-extensions.github.io/learnrx/) on Functional and Reactive Programming
+- Jafar Hussein [Tutorial](http://reactivex.io/learnrx/) on Functional and Reactive Programming
 - [Introduction to RxJS](https://xgrommx.github.io/rx-book/)
 - [RxJS Koans](https://github.com/mattpodwysocki/RxJSKoans)
 - [RxMarbles](http://rxmarbles.com/) - Interactive diagrams of Rx Observables
