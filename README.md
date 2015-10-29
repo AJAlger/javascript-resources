@@ -61,7 +61,7 @@ This is a repository for all the JavaScript resources that I come across and bel
 - Udacity's [OOP Course Notes](https://docs.google.com/document/d/1F9DY2TtWbI29KSEIot1WXRqqao7OCd7OOC2W3oubSmc/pub) and a [Github Repo](https://github.com/batmanimal/object-oriented-js) with some good notes
 - Mozilla's [Introduction to Object-Oriented JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Introduction_to_Object-Oriented_JavaScript)
 
-###Libraries
+###Useful Libraries
 - [MomentJS](http://momentjs.com/)
 - [Underscore](http://underscorejs.org/) 
 - [Lodash](https://lodash.com/)
