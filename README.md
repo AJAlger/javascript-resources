@@ -1,7 +1,7 @@
 #JavaScript Resources
 
 
-This is a repository for all the JavaScript resources that I come across and believe are worth sharing and archiving. It will continue to grow with time, so check back frequently. Feel free to fork the project and contribute!
+This is a repository for all the JavaScript resources that I come across and believe are worth sharing and archiving. It will continue to grow with time, so check back frequently. Feel free to fork the project and contribute! So far, the project has been getting larger. I would like more contributions and some feedback regarding the divisions. 
 
 ###General/Fundies
 - [Eloquent JavaScript](http://eloquentjavascript.net/) by Marijn Haverbeke and his [Github Repo](https://github.com/marijnh/Eloquent-JavaScript) for the book
