@@ -23,6 +23,12 @@ This is a repository for all the JavaScript resources that I come across and bel
 - [ES6 Fiddle](http://www.es6fiddle.net/) - Play with ES6 in the browser (has examples too!)
 - Babel ES015 
 
+###This
+- [Understanding JavaScript Function Invocation and "this"](http://yehudakatz.com/2011/08/11/understanding-javascript-function-invocation-and-this/) - Blog post by Yehuda Katz
+
+###Prototypes
+- [Understanding "Prototypes" in JavaScript](http://yehudakatz.com/2011/08/12/understanding-prototypes-in-javascript/) - Blog post by Yehuda Katz
+
 ###Goodies
 - [TC39 Notes](https://github.com/rwaldron/tc39-notes)
 
