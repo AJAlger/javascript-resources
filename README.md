@@ -4,8 +4,6 @@
 This is a repository for all the JavaScript resources that I come across and believe are worth sharing and archiving. It will continue to grow with time, so check back frequently. Feel free to fork the project and contribute! So far, the project has been getting larger. I would like more contributions and some feedback regarding the divisions. 
 
 ###General/Fundies
-- [Eloquent JavaScript](http://eloquentjavascript.net/) by Marijn Haverbeke and his [Github Repo](https://github.com/marijnh/Eloquent-JavaScript) for the book
-- [JavaScript & jQuery](http://javascriptbook.com/) book by Jon Duckett
 - Mozilla [JavaScript Guide](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide)
 - Douglas Crockford's [JavaScript Website](http://javascript.crockford.com/)
 - [JavaScript Garden](http://bonsaiden.github.io/JavaScript-Garden/)
@@ -13,9 +11,17 @@ This is a repository for all the JavaScript resources that I come across and bel
 - [Computer Science in JavaScript](https://github.com/nzakas/computer-science-in-javascript) by Nicholas Zakas
 - [Annotated and Hyperlinked version of ES5](http://es5.github.io/#x4.3.7)
 - [JavaScript Koans](https://github.com/mrdavidlaing/javascript-koans)
-- Kyle Simpson's ["You Don't Know JS"](https://github.com/getify/You-Dont-Know-JS) - Best JavaScript book series to date. I recommend it over Douglas Crockford's "JavaScript the Good Parts" particularly because this book takes you from the very foundation of JS and builds up.
 - [A Re-Introduction to JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript) by Mozilla Developer Network
 - [Dev Docs](http://devdocs.io/) - JavaScript documentation that's handy like Dash. If you use Dash, then this will look familiar. Includes other documentation as well. 
+
+###Books
+- [SpeakingJS Book](http://speakingjs.com/) - by Dr. Axel Rauschmayer
+- [Eloquent JavaScript](http://eloquentjavascript.net/) by Marijn Haverbeke and his [Github Repo](https://github.com/marijnh/Eloquent-JavaScript) for the book
+- [JavaScript & jQuery](http://javascriptbook.com/) book by Jon Duckett
+- Kyle Simpson's ["You Don't Know JS"](https://github.com/getify/You-Dont-Know-JS) - Best JavaScript book series to date. I recommend it over Douglas Crockford's "JavaScript the Good Parts" particularly because this book takes you from the very foundation of JS and builds up.
+
+###Level Up
+- [Frontend Masters](https://frontendmasters.com/)
 - [Egghead.io](http://egghead.io) - Learn Javascript in short tutorials. Fantastic for Angular, React, D3 and more.
 
 ###Online IDEs 
@@ -119,9 +125,6 @@ This is a repository for all the JavaScript resources that I come across and bel
 ###Hybrid Languages
 - [Native Script](https://www.nativescript.org/)
 - [TypeScript](http://www.typescriptlang.org/)
-
-###Level Up
-- [Frontend Masters](https://frontendmasters.com/)
 
 ###Structured Curriculum
 - [FreeCodeCamp](http://www.freecodecamp.com/) A free, full-stack structured curriculum focusing entirely on JavaScript
