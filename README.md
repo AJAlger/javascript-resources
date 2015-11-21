@@ -61,7 +61,7 @@ This is a repository for all the JavaScript resources that I come across and bel
 - [JavaScript Patterns](http://shichuan.github.io/javascript-patterns/) - Github Repo
 
 ###Functional JS
-- [JSFundamentals](https://github.com/bgando/functionalJS)
+- [Functional JS Course Github Repo](https://github.com/bgando/functionalJS)
 
 ###Object Oriented JS
 - Udacity's [OOP Course Notes](https://docs.google.com/document/d/1F9DY2TtWbI29KSEIot1WXRqqao7OCd7OOC2W3oubSmc/pub) and a [Github Repo](https://github.com/batmanimal/object-oriented-js) with some good notes
