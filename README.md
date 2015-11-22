@@ -94,6 +94,8 @@ This is a repository for all the JavaScript resources that I come across and bel
 - [Mocha](http://mochajs.org/)
 - [Chai](http://chaijs.com/)
 - [Karma](https://karma-runner.github.io/0.12/index.html)
+- [SinonJS](http://sinonjs.org/)
+- [SuperTest](https://github.com/visionmedia/supertest)
 
 ###Arrays
 - Shamasis Bhattacharya - [Infinite Ways to Detect Arrays in JavaScript](http://www.shamasis.net/2011/08/infinite-ways-to-detect-array-in-javascript/)
