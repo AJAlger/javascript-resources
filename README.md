@@ -31,6 +31,8 @@ This is a repository for all the JavaScript resources that I come across and bel
 
 ###This
 - [Understanding JavaScript Function Invocation and "this"](http://yehudakatz.com/2011/08/11/understanding-javascript-function-invocation-and-this/) - Blog post by Yehuda Katz
+- [Understanding "this" with Clarity](http://javascriptissexy.com/understand-javascripts-this-with-clarity-and-master-it/) - From JavaScript is Sexy
+- [Understanding "this" in JavaScript](http://toddmotto.com/understanding-the-this-keyword-in-javascript/) - By Todd Motto 
 
 ###Prototypes
 - [Understanding "Prototypes" in JavaScript](http://yehudakatz.com/2011/08/12/understanding-prototypes-in-javascript/) - Blog post by Yehuda Katz
