@@ -36,6 +36,13 @@ This is a repository for all the JavaScript resources that I come across and bel
 
 ###Prototypes
 - [Understanding "Prototypes" in JavaScript](http://yehudakatz.com/2011/08/12/understanding-prototypes-in-javascript/) - Blog post by Yehuda Katz
+- [JavaScript is Sexy Prototypes](http://javascriptissexy.com/javascript-prototype-in-plain-detailed-language/) - Blog post concerning all aspects of JS prototypes
+
+###Objects
+- [JavaScript is Sexy Objects](http://javascriptissexy.com/javascript-objects-in-detail/) - Blog post concerning all aspects of JS objects
+
+###Object Oriented Programming
+- [JavaScript is Sexy OOP](http://javascriptissexy.com/oop-in-javascript-what-you-need-to-know/) - Blog post concerning all aspects of OOP in JS
 
 ###Goodies
 - [TC39 Notes](https://github.com/rwaldron/tc39-notes)
@@ -45,9 +52,10 @@ This is a repository for all the JavaScript resources that I come across and bel
 - [ES2015 Compatibility Table](https://kangax.github.io/compat-table/es6/)
 - [ES6 Features](http://es6-features.org/#Constants)
 
-###Compliers
+###ES6 Compliers
 - [Babel](https://babeljs.io/) - ES5 to ES2015 complier
 - [Traceur](https://github.com/google/traceur-compiler/) - ES5 to ES2015 complier by Google
+- [MS TypeScript](http://www.typescriptlang.org/)
 
 ###Reactive Programming
 - [ReactiveX](http://reactivex.io/) - An API for Asynchronous Programming
@@ -55,6 +63,18 @@ This is a repository for all the JavaScript resources that I come across and bel
 - [Introduction to RxJS](https://xgrommx.github.io/rx-book/)
 - [RxJS Koans](https://github.com/mattpodwysocki/RxJSKoans)
 - [RxMarbles](http://rxmarbles.com/) - Interactive diagrams of Rx Observables
+
+###Frameworks
+_(This is not nearly an exhaustive list of resources for JavaScript frameworks, but it points you to the main sites of the popular frameworks)_
+- [BackboneJS](http://backbonejs.org/)
+- [Angular 1.x](https://angularjs.org/)
+- [Angular 2](https://angular.io/)
+- [Ember](http://emberjs.com/)
+- [React](https://facebook.github.io/react/)
+- [React Native](https://facebook.github.io/react-native/)
+- [Aurelia](http://aurelia.io/)
+- [Ionic 1](http://ionicframework.com/)
+- [Ionic 2](http://ionic.io/2)
 
 ###Exercises
 - [Exercism.io](exercism.io) A good place to learn more about writing good code in all languages. Most of the people who comment on your code give good tips. 
@@ -76,6 +96,7 @@ This is a repository for all the JavaScript resources that I come across and bel
 - Mozilla's [Introduction to Object-Oriented JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Introduction_to_Object-Oriented_JavaScript)
 
 ###Useful Libraries
+- [jQuery](https://jquery.com/)
 - [MomentJS](http://momentjs.com/)
 - [Underscore](http://underscorejs.org/) 
 - [Lodash](https://lodash.com/)
@@ -110,6 +131,9 @@ This is a repository for all the JavaScript resources that I come across and bel
 - [Regex101](https://regex101.com) My favorite RegEx site for testing
 - [Regexper](http://regexper.com/) Visualize how your regular expression works
 
+###Templating
+- [Handlebars.js Tutorial](http://javascriptissexy.com/handlebars-js-tutorial-learn-everything-about-handlebars-js-javascript-templating/) - JavaScript is Sexy tutorial on Handlebars.js
+
 ###Currying
 - [Why Currying Helps](https://web.archive.org/web/20140714014530/http://hughfdjackson.com/javascript/why-curry-helps)
 
@@ -133,3 +157,4 @@ This is a repository for all the JavaScript resources that I come across and bel
 ###Structured Curriculum
 - [FreeCodeCamp](http://www.freecodecamp.com/) A free, full-stack structured curriculum focusing entirely on JavaScript
 - [JavaScript.com](https://www.javascript.com/) From the makers of "Try Ruby", CodeSchool, comes a new introductory site for those wanting to get their feet wet in JS in an interactive fashion.
+- [JavaScript the Wierd Parts - Udemy Course $](https://www.udemy.com/understand-javascript/) - Great course by Anthony Alicea for beginners and experienced programmers wanting to understand the intricacies of JS.
