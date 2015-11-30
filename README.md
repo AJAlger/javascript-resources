@@ -66,6 +66,7 @@ This is a repository for all the JavaScript resources that I come across and bel
 
 ###Frameworks
 _(This is not nearly an exhaustive list of resources for JavaScript frameworks, but it points you to the main sites of the popular frameworks)_
+- [NodeJS](https://nodejs.org/en/)
 - [BackboneJS](http://backbonejs.org/)
 - [Angular 1.x](https://angularjs.org/)
 - [Angular 2](https://angular.io/)
