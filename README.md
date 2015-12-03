@@ -101,8 +101,6 @@ _(This is not nearly an exhaustive list of resources for JavaScript frameworks, 
 - [Underscore](http://underscorejs.org/) 
 - [Lodash](https://lodash.com/)
 - [RamdaJS](ramdajs.com)
-- [Annyang Speech Recognition](https://www.talater.com/annyang/)
-- [RecorderJS](https://github.com/mattdiamond/Recorderjs) - A plugin for recording/exporting the output of Web Audio API nodes 
 - [ReactiveX](http://reactivex.io/) - Reactive Extensions
 
 ###Algorithms
