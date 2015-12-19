@@ -88,6 +88,7 @@ _(This is not nearly an exhaustive list of resources for JavaScript frameworks, 
 - Addy Osmani's ["Learning JavaScript Design Patterns"](http://addyosmani.com/resources/essentialjsdesignpatterns/book/) and a [Github Repo](https://github.com/addyosmani/essential-js-design-patterns) for the book
 - Todd Motto - [Mastering the Module Pattern](http://toddmotto.com/masterinig-the-module-pattern/)
 - [JavaScript Patterns](http://shichuan.github.io/javascript-patterns/) - Github Repo
+- [Scotch.io Design Patterns article](https://scotch.io/bar-talk/4-javascript-design-patterns-you-should-know) - 4 Design Patternss You Should Know
 
 ###Functional JS
 - [Functional JS Course Github Repo](https://github.com/bgando/functionalJS)
