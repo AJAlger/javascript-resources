@@ -26,7 +26,7 @@ This is a repository for all the JavaScript resources that I come across and bel
 ###Online IDEs 
 - [JS Bin](http://jsbin.com)
 - [ES6 Fiddle](http://www.es6fiddle.net/) - Play with ES6 in the browser (has examples too!)
-- (Babel ES015)[https://babeljs.io/repl/] - Try out ES2015 and Babel in the browser
+- ]Babel ES015](https://babeljs.io/repl/) - Try out ES2015 and Babel in the browser
 
 ###This
 - [Understanding JavaScript Function Invocation and "this"](http://yehudakatz.com/2011/08/11/understanding-javascript-function-invocation-and-this/) - Blog post by Yehuda Katz
@@ -44,7 +44,7 @@ This is a repository for all the JavaScript resources that I come across and bel
 - [JavaScript is Sexy OOP](http://javascriptissexy.com/oop-in-javascript-what-you-need-to-know/) - Blog post concerning all aspects of OOP in JS
 
 ###Value and Reference
-- (JavaScript: Pass by Value or Reference?)[http://nsono.net/javascript-pass-by-value-or-pass-by-reference/]
+- [JavaScript: Pass by Value or Reference?](http://nsono.net/javascript-pass-by-value-or-pass-by-reference/)
 
 ###Goodies
 - [TC39 Notes](https://github.com/rwaldron/tc39-notes)
