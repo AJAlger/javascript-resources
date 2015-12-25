@@ -26,7 +26,7 @@ This is a repository for all the JavaScript resources that I come across and bel
 ###Online IDEs 
 - [JS Bin](http://jsbin.com)
 - [ES6 Fiddle](http://www.es6fiddle.net/) - Play with ES6 in the browser (has examples too!)
-- ]Babel ES015](https://babeljs.io/repl/) - Try out ES2015 and Babel in the browser
+- [Babel ES015](https://babeljs.io/repl/) - Try out ES2015 and Babel in the browser
 
 ###This
 - [Understanding JavaScript Function Invocation and "this"](http://yehudakatz.com/2011/08/11/understanding-javascript-function-invocation-and-this/) - Blog post by Yehuda Katz
