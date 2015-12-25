@@ -43,7 +43,7 @@ This is a repository for all the JavaScript resources that I come across and bel
 ###Object Oriented Programming
 - [JavaScript is Sexy OOP](http://javascriptissexy.com/oop-in-javascript-what-you-need-to-know/) - Blog post concerning all aspects of OOP in JS
 
-##Value and Reference
+###Value and Reference
 - (JavaScript: Pass by Value or Reference?)[http://nsono.net/javascript-pass-by-value-or-pass-by-reference/]
 
 ###Goodies
