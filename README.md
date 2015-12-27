@@ -59,7 +59,6 @@ This is a repository for all the JavaScript resources that I come across and bel
 - [Babel](https://babeljs.io/) - ES5 to ES2015 complier
 - [Traceur](https://github.com/google/traceur-compiler/) - ES5 to ES2015 complier by Google
 - [MS TypeScript](http://www.typescriptlang.org/)
-- [xto6](http://xto6.js.org/) - Translates ES2015 to ES5 - Nice to have just to mess around with.
 
 ###Reactive Programming
 - [ReactiveX](http://reactivex.io/) - An API for Asynchronous Programming
