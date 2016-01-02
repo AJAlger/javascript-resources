@@ -123,6 +123,7 @@ _(This is not nearly an exhaustive list of resources for JavaScript frameworks, 
 - [SinonJS](http://sinonjs.org/)
 - [SuperTest](https://github.com/visionmedia/supertest)
 - [Wallaby.JS](http://wallabyjs.com/) - Test code as you are writing it! Total Awesome!
+- [QUnit](https://qunitjs.com/)
 
 ###Arrays
 - Shamasis Bhattacharya - [Infinite Ways to Detect Arrays in JavaScript](http://www.shamasis.net/2011/08/infinite-ways-to-detect-array-in-javascript/)
