@@ -30,8 +30,7 @@ This is a repository for all the JavaScript resources that I have come across an
 - [C9](http://c9.io) - Full IDE
 
 #Promises
-- [What are callbacks and promises?](http://codetunnel.io/what-are-callbacks-and-promises/)
-
+- [What are callbacks and promises?](http://codetunnel.io/what-are-callbacks-and-promises/) - Focusing on NodeJS
 
 #This
 - [Understanding JavaScript Function Invocation and "this"](http://yehudakatz.com/2011/08/11/understanding-javascript-function-invocation-and-this/) - Blog post by Yehuda Katz
