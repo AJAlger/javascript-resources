@@ -85,6 +85,10 @@ _(This is not nearly an exhaustive list of resources for JavaScript frameworks, 
 - [Ionic 1](http://ionicframework.com/)
 - [Ionic 2](http://ionic.io/2)
 
+#Browser Packages
+- [JSPM.io](http://jspm.io/)
+- [NPM](https://www.npmjs.com/)
+
 #Exercises
 - [Exercism.io](exercism.io) A good place to learn more about writing good code in all languages. Most of the people who comment on your code give good tips. 
 - [Codeeval.com](https://www.codeeval.com/) An excellent resource for coding challenges and practicing your problem solving and algorithmic skills. Featuring challenges in over 21 languages, including JavaScript.
