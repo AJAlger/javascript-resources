@@ -85,6 +85,7 @@ _(This is not nearly an exhaustive list of resources for JavaScript frameworks, 
 - [Aurelia](http://aurelia.io/)
 - [Ionic 1](http://ionicframework.com/)
 - [Ionic 2](http://ionic.io/2)
+- [Aurelia](http://aurelia.io/)
 
 #Browser Packages
 - [JSPM.io](http://jspm.io/)
