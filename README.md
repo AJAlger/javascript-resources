@@ -18,6 +18,7 @@ This is a repository for all the JavaScript resources that I have come across an
 - [Eloquent JavaScript](http://eloquentjavascript.net/) by Marijn Haverbeke and his [Github Repo](https://github.com/marijnh/Eloquent-JavaScript) for the book
 - [JavaScript & jQuery](http://javascriptbook.com/) book by Jon Duckett
 - Kyle Simpson's ["You Don't Know JS"](https://github.com/getify/You-Dont-Know-JS) - Best JavaScript book series to date. I recommend it over Douglas Crockford's "JavaScript the Good Parts" particularly because this book takes you from the very foundation of JS and builds up.
+- [Free JS Books](http://jsbooks.revolunet.com/)
 
 #Level Up
 - [Frontend Masters](https://frontendmasters.com/)
