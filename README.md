@@ -24,6 +24,9 @@ This is a repository for all the JavaScript resources that I have come across an
 - [Frontend Masters](https://frontendmasters.com/)
 - [Egghead.io](http://egghead.io) - Learn Javascript in short tutorials. Fantastic for Angular, React, D3 and more.
 
+#Interview
+- [10 Interview Questions Every JavaScript Developer Should Know](https://medium.com/javascript-scene/10-interview-questions-every-javascript-developer-should-know-6fa6bdf5ad95#.vqkfz5v3p)
+
 #Online IDEs 
 - [JS Bin](http://jsbin.com)
 - [ES6 Fiddle](http://www.es6fiddle.net/) - Play with ES6 in the browser (has examples too!)
