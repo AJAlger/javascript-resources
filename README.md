@@ -90,6 +90,7 @@ _(This is not nearly an exhaustive list of resources for JavaScript frameworks, 
 - [Ionic 1](http://ionicframework.com/)
 - [Ionic 2](http://ionic.io/2)
 - [Aurelia](http://aurelia.io/)
+- [Polymer](https://www.polymer-project.org/1.0/)
 
 #Browser Packages
 - [JSPM.io](http://jspm.io/)
