@@ -3,7 +3,6 @@
 This is a repository for all the JavaScript resources that I have come across and believe are worth sharing and archiving. It will continue to grow with time, so check back frequently. Feel free to fork the project and contribute! So far, the project has been getting larger. I welcome contributions and some feedback regarding the divisions.  
 
 #General/Fundies
-- Mozilla [JavaScript Guide](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide)
 - Douglas Crockford's [JavaScript Website](http://javascript.crockford.com/)
 - [JavaScript Garden](http://bonsaiden.github.io/JavaScript-Garden/)
 - Angus Croll's [JavaScript, JavaScript... Webblog](https://javascriptweblog.wordpress.com/)
@@ -11,6 +10,9 @@ This is a repository for all the JavaScript resources that I have come across an
 - [Annotated and Hyperlinked version of ES5](http://es5.github.io/#x4.3.7)
 - [JavaScript Koans](https://github.com/mrdavidlaing/javascript-koans)
 - [A Re-Introduction to JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript) by Mozilla Developer Network
+
+#Docs
+- Mozilla [JavaScript Guide](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide)
 - [Dev Docs](http://devdocs.io/) - JavaScript documentation that's handy like Dash. If you use Dash, then this will look familiar. Includes other documentation as well. 
 
 #Books
