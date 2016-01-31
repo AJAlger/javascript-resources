@@ -113,6 +113,7 @@ _(This is not nearly an exhaustive list of resources for JavaScript frameworks, 
 - [JavaScript Patterns](http://shichuan.github.io/javascript-patterns/) - Github Repo
 - [Scotch.io Design Patterns article](https://scotch.io/bar-talk/4-javascript-design-patterns-you-should-know) - 4 Design Patterns You Should Know
 - [The Revealing Module Pattern(https://carldanley.com/js-revealing-module-pattern/) - by Carl Danley
+- [Design Patterns](https://sourcemaking.com/design-patterns-book) Book - Not just for JS, but for programming in general
 
 #Functional JS
 - [Functional JS Course Github Repo](https://github.com/bgando/functionalJS)
