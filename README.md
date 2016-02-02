@@ -100,6 +100,7 @@ _(This is not nearly an exhaustive list of resources for JavaScript frameworks, 
 #Browser Packages
 - [JSPM.io](http://jspm.io/)
 - [NPM](https://www.npmjs.com/)
+- [Bower](http://bower.io/)
 
 #Exercises
 - [Exercism.io](exercism.io) A good place to learn more about writing good code in all languages. Most of the people who comment on your code give good tips. 
