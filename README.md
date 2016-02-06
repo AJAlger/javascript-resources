@@ -79,6 +79,7 @@ This is a repository for all the JavaScript resources that I have come across an
 - [Introduction to RxJS](https://xgrommx.github.io/rx-book/)
 - [RxJS Koans](https://github.com/mattpodwysocki/RxJSKoans)
 - [RxMarbles](http://rxmarbles.com/) - Interactive diagrams of Rx Observables
+- [Rx Workshop](http://rxworkshop.codeplex.com/)
 
 #Frameworks
 _(This is not nearly an exhaustive list of resources for JavaScript frameworks, but it points you to the main sites of the popular frameworks)_
