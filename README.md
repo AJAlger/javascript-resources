@@ -154,6 +154,7 @@ _(This is not nearly an exhaustive list of resources for JavaScript frameworks, 
 - Shamasis Bhattacharya - [Infinite Ways to Detect Arrays in JavaScript](http://www.shamasis.net/2011/08/infinite-ways-to-detect-array-in-javascript/)
 - Arrayizing - [The JavaScript Array Cheatsheet](https://gist.github.com/ourmaninamsterdam/1be9a5590c9cf4a0ab42)
 - Kyle Simpson - [Combining JavaScript Arrays](https://davidwalsh.name/combining-js-arrays)
+- [Common pitfalls when working with Javascript Arrays](http://thecodeship.com/web-development/common-pitfalls-when-working-with-javascript-arrays/)
 
 #Strings 
 - Edward Mann - [Ten ways to reverse a string in JavaScript](http://eddmann.com/posts/ten-ways-to-reverse-a-string-in-javascript/)
