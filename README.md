@@ -120,6 +120,7 @@ _(This is not nearly an exhaustive list of resources for JavaScript frameworks, 
 
 #Functional JS
 - [Functional JS Course Github Repo](https://github.com/bgando/functionalJS)
+- [Vanilla JavaScript version of jQuery.extend()](http://gomakethings.com/vanilla-javascript-version-of-jquery-extend/)
 
 #Object Oriented JS
 - Udacity's [OOP Course Notes](https://docs.google.com/document/d/1F9DY2TtWbI29KSEIot1WXRqqao7OCd7OOC2W3oubSmc/pub) and a [Github Repo](https://github.com/batmanimal/object-oriented-js) with some good notes
