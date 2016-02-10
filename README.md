@@ -171,6 +171,9 @@ _(This is not nearly an exhaustive list of resources for JavaScript frameworks, 
 #Currying
 - [Why Currying Helps](https://web.archive.org/web/20140714014530/http://hughfdjackson.com/javascript/why-curry-helps)
 
+#Performance
+- [JS Perf](http://jsperf.com/)
+
 #Style Guides
 - [Idiomatic JavaScript](https://github.com/rwaldron/idiomatic.js)
 - AirBnB [JavaScript Style Guide](https://github.com/airbnb/javascript)
