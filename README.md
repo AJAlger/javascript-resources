@@ -83,7 +83,7 @@ This is a repository for all the JavaScript resources that I have come across an
 
 #Frameworks
 _(This is not nearly an exhaustive list of resources for JavaScript frameworks, but it points you to the main sites of the popular frameworks)_
-- [NodeJS](https://nodejs.org/en/)
+- [Node](https://nodejs.org/en/)
 - [BackboneJS](http://backbonejs.org/)
 - [Angular 1.x](https://angularjs.org/)
 - [Angular 2](https://angular.io/)
@@ -96,7 +96,7 @@ _(This is not nearly an exhaustive list of resources for JavaScript frameworks, 
 - [Aurelia](http://aurelia.io/)
 - [Polymer](https://www.polymer-project.org/1.0/)
 - [Seneca](http://senecajs.org/)
-- [Node](https://nodejs.org/en/)
+- [Ampersand](https://ampersandjs.com/)
 
 #Browser Packages
 - [JSPM.io](http://jspm.io/)
