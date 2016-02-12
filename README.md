@@ -192,7 +192,6 @@ _(This is not nearly an exhaustive list of resources for JavaScript frameworks, 
 - [FreeCodeCamp](http://www.freecodecamp.com/) A free, full-stack structured curriculum focusing entirely on JavaScript
 - [JavaScript.com](https://www.javascript.com/) From the makers of "Try Ruby", CodeSchool, comes a new introductory site for those wanting to get their feet wet in JS in an interactive fashion.
 - [JavaScript the Wierd Parts - Udemy Course $](https://www.udemy.com/understand-javascript/) - Great course by Anthony Alicea for beginners and experienced programmers wanting to understand the intricacies of JS.
-- Anthony Alicea's [JavaScript the Weird Parts](https://www.udemy.com/understand-javascript/) Course on Udemy. Fantastic Course!
 
 #Podcasts
 - [JavaScript Jabber](https://devchat.tv/js-jabber/)
