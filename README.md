@@ -28,6 +28,7 @@ This is a repository for all the JavaScript resources that I have come across an
 - [Egghead.io](http://egghead.io) - Learn Javascript in short tutorials. Fantastic for Angular, React, D3 and more.
 
 #Interview
+- [JS Interview Algorithms](http://www.thatjsdude.com/interview/js1.html) by That JS Dude
 - [10 Interview Questions Every JavaScript Developer Should Know](https://medium.com/javascript-scene/10-interview-questions-every-javascript-developer-should-know-6fa6bdf5ad95#.vqkfz5v3p)
 
 #Online IDEs 
@@ -135,7 +136,6 @@ _(This is not nearly an exhaustive list of resources for JavaScript frameworks, 
 - [ReactiveX](http://reactivex.io/) - Reactive Extensions
 
 #Algorithms
-- [JS Interview Algorithms](http://www.thatjsdude.com/interview/js1.html) by That JS Dude
 - [Algorithm Implementations](https://github.com/kennyledet/Algorithm-Implementations) in different languages and JavaScript
 - [JavaScript Algorithms](https://mgechev.github.io/javascript-algorithms/) 
 - [JavaScript Algorithms](https://github.com/duereg/js-algorithms) by Matt Blair 
