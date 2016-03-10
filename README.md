@@ -12,7 +12,7 @@ This is a repository for all the JavaScript resources that I have come across an
 - [A Re-Introduction to JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript) by Mozilla Developer Network
 - [Unicode Character Table](http://unicode-table.com/en/#control-character)
 - [Ben Nadel's Blog](http://www.bennadel.com/)
-- Todd Motto's Blog
+- [Todd Motto's Blog](https://toddmotto.com/)
 
 #Docs
 - Mozilla [JavaScript Guide](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide)
