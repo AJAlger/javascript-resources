@@ -1,6 +1,6 @@
 #JavaScript Resources
 
-This is a repository for all the JavaScript resources that I have come across and believe are worth sharing and archiving. It will continue to grow with time, so check back frequently. Feel free to fork the project and contribute! So far, the project has been getting larger. I welcome contributions and some feedback regarding the divisions.  
+This is a repository for all the JavaScript resources that I have come across and believe are worth sharing and archiving. It will continue to grow with time, so check back frequently. Feel free to fork the project and contribute! So far, the project has been getting larger. I welcome contributions and some feedback regarding the divisions.   
 
 #General/Fundies
 - Douglas Crockford's [JavaScript Website](http://javascript.crockford.com/)
