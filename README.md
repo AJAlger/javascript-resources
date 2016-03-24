@@ -13,6 +13,7 @@ This is a repository for all the JavaScript resources that I have come across an
 - [Unicode Character Table](http://unicode-table.com/en/#control-character)
 - [Ben Nadel's Blog](http://www.bennadel.com/)
 - [Todd Motto's Blog](https://toddmotto.com/)
+- [Four Semesters of CS in 6 Hours](http://btholt.github.io/four-semesters-of-cs/)
 
 #Docs
 - Mozilla [JavaScript Guide](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide)
