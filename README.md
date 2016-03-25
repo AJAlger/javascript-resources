@@ -143,6 +143,7 @@ _(This is not nearly an exhaustive list of resources for JavaScript frameworks, 
 - [JavaScript Algorithms](https://mgechev.github.io/javascript-algorithms/) 
 - [JavaScript Algorithms](https://github.com/duereg/js-algorithms) by Matt Blair 
 - [AlgorithmsJS](https://github.com/duereg/js-algorithms) Classic algorithms and data structures implemented in JavaScript
+- [Big-O Algorithm Cheat Sheet](http://bigocheatsheet.com/)
 
 #Testing 
 - [Jasmine](http://jasmine.github.io/)
