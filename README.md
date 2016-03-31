@@ -135,7 +135,7 @@ _(This is not nearly an exhaustive list of resources for JavaScript frameworks, 
 - [MomentJS](http://momentjs.com/)
 - [Underscore](http://underscorejs.org/) 
 - [Lodash](https://lodash.com/)
-- [RamdaJS](ramdajs.com)
+- [RamdaJS](http://ramdajs.com)
 - [ReactiveX](http://reactivex.io/) - Reactive Extensions
 
 #Algorithms
