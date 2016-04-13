@@ -161,6 +161,7 @@ _(This is not nearly an exhaustive list of resources for JavaScript frameworks, 
 - Kyle Simpson - [Combining JavaScript Arrays](https://davidwalsh.name/combining-js-arrays)
 - [Common pitfalls when working with Javascript Arrays](http://thecodeship.com/web-development/common-pitfalls-when-working-with-javascript-arrays/)
 - [5 Array Methods That You Should Be Using Now](http://colintoh.com/blog/5-array-methods-that-you-should-use-today)
+- [Mastering ES6 Arrays](https://www.airpair.com/javascript/posts/mastering-es6-higher-order-functions-for-arrays)
 
 #Strings 
 - Edward Mann - [Ten ways to reverse a string in JavaScript](http://eddmann.com/posts/ten-ways-to-reverse-a-string-in-javascript/)
