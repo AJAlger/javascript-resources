@@ -200,3 +200,7 @@ _(This is not nearly an exhaustive list of resources for JavaScript frameworks, 
 
 #Podcasts
 - [JavaScript Jabber](https://devchat.tv/js-jabber/)
+
+#GeoJSON
+- [GeoJSON Linter](http://geojsonlint.com/) - Nice linter for GeoJSON. Very good for checking basic GeoJSON quickly.
+- [GeoJSON.io](http://geojson.io) - Linter and better looking maps than GeoJSON, but more opinionated.
