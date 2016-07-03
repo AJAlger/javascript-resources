@@ -114,6 +114,9 @@ _(This is not nearly an exhaustive list of resources for JavaScript frameworks, 
 - [CodeCombat.com](https://codecombat.com/) - Gamification of writing code. Really fun!
 - [CodeFights.com](https://codefights.com/)
 
+#Working with Data
+- [Learn JS Data](http://learnjsdata.com/index.html)
+
 #Design Patterns
 - Addy Osmani's ["Learning JavaScript Design Patterns"](http://addyosmani.com/resources/essentialjsdesignpatterns/book/) and a [Github Repo](https://github.com/addyosmani/essential-js-design-patterns) for the book
 - Todd Motto - [Mastering the Module Pattern](http://toddmotto.com/masterinig-the-module-pattern/)
