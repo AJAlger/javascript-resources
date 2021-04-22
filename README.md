@@ -1,7 +1,7 @@
 #JavaScript Resources
 
 This is a repository for all the JavaScript resources that I have come across and believe are worth sharing and archiving. It will continue to grow with time, so check back frequently. Feel free to fork the project and contribute! So far, the project has been getting larger. I welcome contributions and some feedback regarding the divisions.    
- 
+
 #General/Fundies
 - Douglas Crockford's [JavaScript Website](http://javascript.crockford.com/)
 - [JavaScript Garden](http://bonsaiden.github.io/JavaScript-Garden/)
@@ -17,7 +17,7 @@ This is a repository for all the JavaScript resources that I have come across an
 
 #Docs
 - Mozilla [JavaScript Guide](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide)
-- [Dev Docs](http://devdocs.io/) - JavaScript documentation that's handy like Dash. If you use Dash, then this will look familiar. Includes other documentation as well. 
+- [Dev Docs](http://devdocs.io/) - JavaScript documentation that's handy like Dash. If you use Dash, then this will look familiar. Includes other documentation as well.
 
 #Books
 - [SpeakingJS Book](http://speakingjs.com/) - by Dr. Axel Rauschmayer
@@ -34,7 +34,7 @@ This is a repository for all the JavaScript resources that I have come across an
 - [JS Interview Algorithms](http://www.thatjsdude.com/interview/js1.html) by That JS Dude
 - [10 Interview Questions Every JavaScript Developer Should Know](https://medium.com/javascript-scene/10-interview-questions-every-javascript-developer-should-know-6fa6bdf5ad95#.vqkfz5v3p)
 
-#Online IDEs 
+#Online IDEs
 - [JS Bin](http://jsbin.com)
 - [ES6 Fiddle](http://www.es6fiddle.net/) - Play with ES6 in the browser (has examples too!)
 - [Babel ES015](https://babeljs.io/repl/) - Try out ES2015 and Babel in the browser
@@ -47,7 +47,7 @@ This is a repository for all the JavaScript resources that I have come across an
 #This
 - [Understanding JavaScript Function Invocation and "this"](http://yehudakatz.com/2011/08/11/understanding-javascript-function-invocation-and-this/) - Blog post by Yehuda Katz
 - [Understanding "this" with Clarity](http://javascriptissexy.com/understand-javascripts-this-with-clarity-and-master-it/) - From JavaScript is Sexy
-- [Understanding "this" in JavaScript](http://toddmotto.com/understanding-the-this-keyword-in-javascript/) - By Todd Motto 
+- [Understanding "this" in JavaScript](http://toddmotto.com/understanding-the-this-keyword-in-javascript/) - By Todd Motto
 
 #Prototypes
 - [Understanding "Prototypes" in JavaScript](http://yehudakatz.com/2011/08/12/understanding-prototypes-in-javascript/) - Blog post by Yehuda Katz
@@ -58,7 +58,7 @@ This is a repository for all the JavaScript resources that I have come across an
 
 #Object Oriented Programming
 - [JavaScript is Sexy OOP](http://javascriptissexy.com/oop-in-javascript-what-you-need-to-know/) - Blog post concerning all aspects of OOP in JS
-- [JS Objects: Inherited a Mess](https://davidwalsh.name/javascript-objects) - by Kyle Simpson 
+- [JS Objects: Inherited a Mess](https://davidwalsh.name/javascript-objects) - by Kyle Simpson
 
 #Value and Reference
 - [JavaScript: Pass by Value or Reference?](http://nsono.net/javascript-pass-by-value-or-pass-by-reference/)
@@ -108,9 +108,10 @@ _(This is not nearly an exhaustive list of resources for JavaScript frameworks, 
 - [Bower](http://bower.io/)
 
 #Exercises
-- [Exercism.io](exercism.io) A good place to learn more about writing good code in all languages. Most of the people who comment on your code give good tips. 
+- [Exercism.io](exercism.io) A good place to learn more about writing good code in all languages. Most of the people who comment on your code give good tips.
 - [Codeeval.com](https://www.codeeval.com/) An excellent resource for coding challenges and practicing your problem solving and algorithmic skills. Featuring challenges in over 21 languages, including JavaScript.
 - [Codewars.com](https://www.codewars.com/) Another great place to learn how to write better code and practice your problem solving with increasing levels of difficulty and various different languages.
+- [DevProjects](https://www.codementor.io/projects) A curated website with free real-world projects in many different languages, including JavaScript. Users can learn from other community members' solutions or submit their own solutions and get feedback from senior developers.
 - [CodeCombat.com](https://codecombat.com/) - Gamification of writing code. Really fun!
 - [CodeFights.com](https://codefights.com/)
 
@@ -136,19 +137,19 @@ _(This is not nearly an exhaustive list of resources for JavaScript frameworks, 
 #Useful Libraries
 - [jQuery](https://jquery.com/)
 - [MomentJS](http://momentjs.com/)
-- [Underscore](http://underscorejs.org/) 
+- [Underscore](http://underscorejs.org/)
 - [Lodash](https://lodash.com/)
 - [RamdaJS](http://ramdajs.com)
 - [ReactiveX](http://reactivex.io/) - Reactive Extensions
 
 #Algorithms
 - [Algorithm Implementations](https://github.com/kennyledet/Algorithm-Implementations) in different languages and JavaScript
-- [JavaScript Algorithms](https://mgechev.github.io/javascript-algorithms/) 
-- [JavaScript Algorithms](https://github.com/duereg/js-algorithms) by Matt Blair 
+- [JavaScript Algorithms](https://mgechev.github.io/javascript-algorithms/)
+- [JavaScript Algorithms](https://github.com/duereg/js-algorithms) by Matt Blair
 - [AlgorithmsJS](https://github.com/duereg/js-algorithms) Classic algorithms and data structures implemented in JavaScript
 - [Big-O Algorithm Cheat Sheet](http://bigocheatsheet.com/)
 
-#Testing 
+#Testing
 - [Jasmine](http://jasmine.github.io/)
 - [Mocha](http://mochajs.org/)
 - [Chai](http://chaijs.com/)
@@ -166,7 +167,7 @@ _(This is not nearly an exhaustive list of resources for JavaScript frameworks, 
 - [5 Array Methods That You Should Be Using Now](http://colintoh.com/blog/5-array-methods-that-you-should-use-today)
 - [Mastering ES6 Arrays](https://www.airpair.com/javascript/posts/mastering-es6-higher-order-functions-for-arrays)
 
-#Strings 
+#Strings
 - Edward Mann - [Ten ways to reverse a string in JavaScript](http://eddmann.com/posts/ten-ways-to-reverse-a-string-in-javascript/)
 
 #RegEx
