@@ -36,7 +36,6 @@ This is a repository for all the JavaScript resources that I have come across an
 
 # Online IDEs
 - [JS Bin](http://jsbin.com)
-- [ES6 Fiddle](http://www.es6fiddle.net/) - Play with ES6 in the browser (has examples too!)
 - [Babel ES015](https://babeljs.io/repl/) - Try out ES2015 and Babel in the browser
 - [C9](http://c9.io) - Full IDE
 - [Repl.it](https://repl.it/) - Play with all sorts of languages online
